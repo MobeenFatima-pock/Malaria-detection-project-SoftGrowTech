@@ -105,6 +105,7 @@ python app.py
 
 For any questions, contact: **[Your Name]**
 
-* GitHub: [Your GitHub URL]
-* LinkedIn: [Your LinkedIn URL]
+* GitHub: https://github.com/MobeenFatima-pock
+* LinkedIn: www.linkedin.com/in/mobeen-fatima-599a35347
+
 
